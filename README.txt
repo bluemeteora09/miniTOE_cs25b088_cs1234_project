@@ -19,7 +19,7 @@ Compiling Instructions:
 3. make clean (to clear extra files)
 
 Features:
-1. Single user.
+1. Multi user due to login feature.
 2. Dashboard: 
     Displays different pages user can visit.
     User can can go to other modes from the Dashboard.
