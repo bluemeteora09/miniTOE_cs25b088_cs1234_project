@@ -389,7 +389,7 @@ int main(){
                 strcpy(msg_sys, "File saved succesfully");
             }
 
-            else if(strcmp(input, "clear") == 0){
+            else if(strcmp(input, "clear\n") == 0){
                 clear_file(curr_file_ind);
             }
 
